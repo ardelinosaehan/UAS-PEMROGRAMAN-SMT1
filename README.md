@@ -9,10 +9,10 @@ Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 <img src="daftar.png">
 <br>
 pada menu pertama terdapat fitur tambah data dengan output seperti gambar berikut:<br>
+<br>
+
 <img src="tambahdata.png">
             
-<br>
-<img src="tambahdata.png">
 <br>
 pada menu ke-dua terdapat fitur lihat data yang telah di inputkan oleh user dengan gambar berikut
 <br>
