@@ -17,4 +17,4 @@ pada menu ke-dua terdapat fitur lihat data yang telah di inputkan oleh user deng
 <img src="lihatdata.png>
 menu ke-tiga fitur Hapus Data dengan hasil output sebagai berikut
 <br>
-<img src="ubahdata.png>
+<img src="ubahdata.png">
