@@ -18,14 +18,16 @@ pada menu pertama terdapat fitur tambah data dengan output seperti gambar beriku
 <h5> Pada menu pertama terdapat fitur tambah data dengan sintaks berikut :
           <br>
 ``` python
+
 fitur = [{'1': 'TAMBAH DATA',
           '2': 'LIHAT DATA',
           '3': 'HAPUS DATA',
           '4': 'UBAH DATA',
           '0': 'KELUAR'}]
-    
+
+
 def Main():
-    global fitur #mengubah variabel fitur menjadi lingkup global 
+    global fitur
     for key, value in fitur[0].items():
         print(f'{key} {value.title()}')
     print('SELAMAT DATANG DI DAFTAR MAHASISWA')
