@@ -27,7 +27,7 @@ fitur = [{'1': 'TAMBAH DATA',
 
 
 def Main():
-    global fitur  
+    global fitur  #mengubah lingkup variabel fitur yang tadinya local menjadi global
     for key, value in fitur[0].items():
         print(f'{key} {value.title()}')
     print('SELAMAT DATANG DI DAFTAR MAHASISWA')
