@@ -3,11 +3,11 @@
 # penjelasan
 <br>
 <h5>Pada folder model dengan nama file daftar_nilai berisi modul untuk tambah data,hapus data,ubah data ,dan cari data,sintaksnya sebagai berikut </h5>
-<img src="daftar.png">
+<img style="width:60%" src="daftar.png">
 <br>
 Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 <br>
-<img style="width:50%" src="menu.png">
+<img style="width:60%" src="menu.png">
 
 pada menu pertama terdapat fitur tambah data dengan output seperti gambar berikut:
 <br>
