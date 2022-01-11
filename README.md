@@ -9,7 +9,7 @@ Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 <img src="daftar.png">
 <br>
 pada menu pertama terdapat fitur tambah data dengan sintaks berikut:
-<br>
+
 def Main():
     global fitur
     for key, value in fitur[0].items():
