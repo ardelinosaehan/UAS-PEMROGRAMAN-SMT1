@@ -9,18 +9,6 @@ Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 <img src="daftar.png">
 <br>
 pada menu pertama terdapat fitur tambah data dengan output seperti gambar berikut:
-def Main():
-    global fitur
-    for key, value in fitur[0].items():
-        print(f'{key} {value.title()}')
-    print('SELAMAT DATANG DI DAFTAR MAHASISWA')
-    menu = str(input('Pilih Menu Anda :'))
-    while menu != '0':
-        if menu == '0':
-            break
-        elif menu == '1':
-            Cetak()
-Ouputnya seperti gambar berikut ini
 <br>
 <img src="tambahdata.png">
             
