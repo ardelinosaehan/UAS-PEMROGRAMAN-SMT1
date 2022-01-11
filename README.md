@@ -15,8 +15,8 @@ pada menu pertama terdapat fitur tambah data dengan output seperti gambar beriku
 
 <br>
 <br>
-<h5> Pada menu pertama terdapat fitur tambah data dengan sintaks berikut :</h5>
-<br>
+ Pada menu pertama terdapat fitur tambah data dengan sintaks berikut :
+
 ``` python
 
 fitur = [{'1': 'TAMBAH DATA',
