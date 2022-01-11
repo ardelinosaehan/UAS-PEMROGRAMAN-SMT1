@@ -14,7 +14,7 @@ pada menu pertama terdapat fitur tambah data dengan tampilan berikut ini
 <br>
 pada menu ke-dua terdapat fitur lihat data yang telah di inputkan oleh user dengan gambar berikut
 <br>
-<img src="lihatdata.png>
+<img src="lihatdata.png">
 menu ke-tiga fitur Hapus Data dengan hasil output sebagai berikut
 <br>
 <img src="ubahdata.png">
