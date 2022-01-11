@@ -32,11 +32,11 @@ def Main():
         print(f'{key} {value.title()}')
     print('SELAMAT DATANG DI DAFTAR MAHASISWA')
     menu = str(input('Pilih Menu Anda :'))
-    while menu != '0':
+    while menu != '0': #jika si user menginput tidak sama dengan 0 maka program akan menjalan fungsi kondisi selanjutnya
         if menu == '0':
             break
         elif menu == '1':
-            Cetak()
+            Cetak()  #akan menampilkan fitur tambah data
    
    ```
     
