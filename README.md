@@ -51,3 +51,7 @@ Lihat data
 hapus data
 <br>
 <img src="ubahdata.png">
+<br>
+berikut adalah output dari fitur <h5>Keluar</h5>
+<br>
+<img src="keluar.png">
