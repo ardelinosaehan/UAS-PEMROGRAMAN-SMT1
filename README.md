@@ -28,8 +28,8 @@ fitur = [{'1': 'TAMBAH DATA',
 
 def Main():
     global fitur  #mengubah lingkup variabel fitur yang tadinya local menjadi global
-    for key, value in fitur[0].items():
-        print(f'{key} {value.title()}')
+    for key, value in fitur[0].items(): 
+        print(f'{key} {value.title()}') 
     print('SELAMAT DATANG DI DAFTAR MAHASISWA')
     menu = str(input('Pilih Menu Anda :'))
     while menu != '0': #jika si user menginput tidak sama dengan 0 maka program akan menjalan fungsi kondisi selanjutnya
@@ -40,9 +40,9 @@ def Main():
    
    ```
     
-            
-
+            <br>
+Lihat data
 <img src="lihatdata.png">
-menu ke-tiga fitur Hapus Data dengan hasil output sebagai berikut
+hapus data
 <br>
 <img src="ubahdata.png">
