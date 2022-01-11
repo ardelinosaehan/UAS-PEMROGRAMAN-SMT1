@@ -8,7 +8,39 @@ Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 <h1>Pada folder model dengan nama file daftar_nilai berisi modul untuk tambah data,hapus data,ubah data ,dan cari data,sintaksnya sebagai berikut </h1>
 <img src="daftar.png">
 <br>
-pada menu pertama terdapat fitur tambah data dengan tampilan berikut ini
+pada menu pertama terdapat fitur tambah data dengan sintaks berikut:
+<br>
+def Main():
+<br>
+    global fitur
+<br>
+
+    for key, value in fitur[0].items():
+<br>
+        print(f'{key} {value.title()}')
+<br>
+        
+    print('SELAMAT DATANG DI DAFTAR MAHASISWA')
+<br>
+    
+    menu = str(input('Pilih Menu Anda :'))
+<br>
+    
+    while menu != '0':
+<br>
+    
+        if menu == '0':
+<br>
+        
+            break
+<br>
+            
+        elif menu == '1':
+<br>
+        
+            Cetak()
+<br>
+            
 <br>
 <img src="tambahdata.png">
 <br>
