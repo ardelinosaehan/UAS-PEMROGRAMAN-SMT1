@@ -9,12 +9,9 @@ Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 <br>
 <img style="width:60%" src="menu.png">
 
-pada menu pertama terdapat fitur tambah data dengan output seperti gambar berikut:
-<br>
-
 <br>
 <br>
- Pada menu pertama terdapat fitur tambah data dengan sintaks berikut :
+ Pada menu terdapat fitur sebagai berikut :
 
 ``` python
 
