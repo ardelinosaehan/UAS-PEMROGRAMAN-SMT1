@@ -39,7 +39,7 @@ def Main():
    
    ```
     
-            <br>
+
   dengan hasil output sebagai berikut
   <br>
 <img src="tambahdata.png">
