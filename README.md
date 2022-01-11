@@ -11,7 +11,7 @@ Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 
 <br>
 <br>
- Pada menu terdapat fitur sebagai berikut :
+ Pada menu tambah data terdapat sintaks sebagai berikut :
 
 ``` python
 
