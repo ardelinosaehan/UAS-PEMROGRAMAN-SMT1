@@ -21,6 +21,9 @@ def Main():
             break
         elif menu == '1':
             Cetak()
+ <br>
+ dengan output seperti di gambar berikut:<br>
+ <img src="tambahdata.png">
             
 <br>
 <img src="tambahdata.png">
