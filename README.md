@@ -3,4 +3,4 @@
 # penjelasan
 Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 <br>
-<img src="menu.png">
+<img style="width:50%" src="menu.png">
