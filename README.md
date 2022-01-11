@@ -11,7 +11,6 @@ Pada file main.py berisi daftar pilihan menu dengan sintaks sebagai berikut:
 
 pada menu pertama terdapat fitur tambah data dengan output seperti gambar berikut:
 <br>
-<img src="tambahdata.png">
 
 <br>
 <br>
@@ -41,6 +40,10 @@ def Main():
    ```
     
             <br>
+  dengan hasil output sebagai berikut
+  <br>
+<img src="tambahdata.png">
+  
 Lihat data
 <img src="lihatdata.png">
 hapus data
