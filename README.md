@@ -40,9 +40,14 @@ def Main():
   dengan hasil output sebagai berikut
   <br>
 <img src="tambahdata.png">
+  <br>
   
 Lihat data
+  <br>
+
 <img src="lihatdata.png">
+  <br>
+
 hapus data
 <br>
 <img src="ubahdata.png">
